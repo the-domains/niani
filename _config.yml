@@ -1,0 +1,28 @@
+name: Niani
+favicon: null
+layout_spectrum: 0.368173893308267
+typography_spectrum: 0.2005689439829439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2255686002317816
+  lightness: 0.819405124289915
+  saturation: 0.7894633244723082
+  rhythmicContrast: 0.1753232846967876
+purpose: []
